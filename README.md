@@ -2,7 +2,7 @@
 
 A simple and secure web-based Expense Tracker application built with **Streamlit** and **SQLite**, allowing users to track, manage, and analyze their expenses with ease.
 
-🔗 **Live Demo:** **[Budget Tracker App](https://finance-tracker-pranaytalari.streamlit.app/)**
+🔗 **Live Demo:** **[Finance Tracker App](https://finance-tracker-pranaytalari.streamlit.app/)**
 ---
 
 ## 🚀 Features
